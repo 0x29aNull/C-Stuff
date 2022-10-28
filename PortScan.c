@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
 {
 	if (argc < 2)
 	{
-		printf("\nUsage: ./fag <hostname/ip>");
+		printf("\nUsage: ./Portscan <hostname/ip>");
 		exit(1);
 	}
 
