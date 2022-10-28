@@ -1,4 +1,5 @@
-/* Threaded Port Scanner in C - M Logsdon - 10/28/22 */
+/* Threaded Port Scanner in C - M Logsdon - 10/28/22
+   Threading not yet implemented */
 
 #include <stdio.h> 
 #include <string.h> 
